@@ -11,5 +11,5 @@
 	<li>Apache Tomcat</li>
 	<li>Git</li>
 </ol>
-
+<p>The site is best viewed in Mozilla Firefox and Google Chrome.</p>
 <p>Currently, the application in <b>Beta</b>.</p>

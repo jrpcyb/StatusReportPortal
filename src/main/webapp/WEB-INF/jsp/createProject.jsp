@@ -89,6 +89,13 @@
 					</form:select>
 				</div>
 			</div>
+			<div class="col_12" style="height:3em;">
+				<div class="col_3"></div>
+				<div class="col_6" style="text-align:left;">
+					<span class="req" style="font-weight:normal;">(*Mandatory)</span>
+				</div>
+				<div class="col_3"></div>
+			</div>
 			<div class="col_12" style="margin-top:3%;margin-bottom:3%;">
 				<c:choose>
 					<c:when test="${fn:length(param.project_id) > 0}">

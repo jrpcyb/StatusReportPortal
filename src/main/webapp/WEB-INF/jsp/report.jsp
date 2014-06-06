@@ -127,6 +127,13 @@
 					</div>
 				</div>
 			</div>
+			<div class="col_12" style="height:3em;">
+				<div class="col_3"></div>
+				<div class="col_6" style="text-align:left;">
+					<span class="req" style="font-weight:normal;">(*Mandatory)</span>
+				</div>
+				<div class="col_3"></div>
+			</div>
 			<div class="col_12" style="margin-top:2%;">
 				<form:button class="blue">Download&nbsp;<i
 						class="icon-chevron-right"></i>
@@ -134,8 +141,8 @@
 			</div>
 		</form:form>
 <div class="col_12" style="text-align:left;">
-	<div class="notice warning" style="margin-top: 5%;"><i class="icon-info-sign icon-large"></i>Resources registered by you, but not assigned to any project yet, are
-		assigned to project "Internal" by default. You can download their task report.
+	<div class="notice warning" style="margin-top: 5%;"><i class="icon-info-sign icon-large"></i>Resources registered by you, are
+	assigned to your "Internal" project by default. So your resources who are not assigned to any project by you or your supervisor are tagged to your Internal project implicitly. You can download the report for the same.
 	</div>
 </div>
 	

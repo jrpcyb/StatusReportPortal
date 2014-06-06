@@ -54,7 +54,7 @@
 				</div>
 				<div class="col_9">
 					<form:input path="empid" cssClass="col_4" type="number" />
-					&nbsp;<span style="color: #9B089B;">(*Numbers only)</span>
+					&nbsp;<span style="color: #9B089B;">(*Numbers only, Ex - 12166)</span>
 				</div>
 			</c:otherwise>
 		</c:choose>
@@ -108,6 +108,13 @@
 				<form:option value="1">Manager/Lead</form:option>
 			</form:select>
 		</div>
+	</div>
+	<div class="col_12" style="height:3em;">
+		<div class="col_3"></div>
+		<div class="col_6" style="text-align:left;">
+			<span class="req" style="font-weight:normal;">(*Mandatory)</span>
+		</div>
+		<div class="col_3"></div>
 	</div>
 	<div class="col_12">
 		<c:choose>

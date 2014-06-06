@@ -26,6 +26,13 @@
 		&nbsp; <span style="color: #9B089B;">(*includes all your
 			project)</span>
 	</div>
+	<div class="col_12" style="height:3em;">
+		<div class="col_3"></div>
+		<div class="col_6" style="text-align:left;">
+			<span class="req" style="font-weight:normal;">(*Mandatory)</span>
+		</div>
+		<div class="col_3"></div>
+	</div>
 	<div class="col_12" style="margin-top:3%;text-align:center;margin-bottom:5%;">
 		<form:button class="blue">Next&nbsp;<i
 				class="icon-chevron-right"></i>

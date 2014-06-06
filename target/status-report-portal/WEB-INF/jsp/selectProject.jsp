@@ -41,7 +41,8 @@
 			</div>
 		</form:form>
 		<div class="col_12" style="text-align:left;">
-			<div class="notice warning" style="margin-top: 5%;"><i class="icon-info-sign icon-large"></i>Internal Project is an implicit project and the resources registered by you, but not tagged to any project, are tagged to "Internal" project by default.
+			<div class="notice warning" style="margin-top: 5%;"><i class="icon-info-sign icon-large"></i>Resources registered by you, are
+	assigned to your "Internal" project by default. Hence, your resources who are not assigned to any project by you or your supervisor are tagged to your Internal project implicitly. So, no need to assign explicitly.
 		</div>
 </div>
 	</c:when>

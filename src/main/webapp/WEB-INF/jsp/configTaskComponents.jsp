@@ -221,3 +221,4 @@
 			value="${taskConfiguration.manager_id }" />
 	</div>
 </form:form>
+<jsp:include page="footer.jsp" />
